@@ -1,0 +1,43 @@
+Label {
+    -fx-font-size: 20px;
+    -fx-background-color: #AF9DCA;
+    -fx-border-color:#B1ACD1;
+    -fx-text-fill: #363062;
+    -fx-border-width:2;
+    -fx-border-radius:5px;
+    -fx-background-radius:5px;
+}
+
+VBox{
+    -fx-background-color: #E9D5DA;
+}
+
+.Verde{
+    -fx-background-color: #A2E38C;
+    -fx-border-radius:5px;
+}
+
+.Amarillo{
+    -fx-background-color: #FBFB69;
+    -fx-border-radius:5px;
+}
+
+.Gris{
+    -fx-background-color: #B0B0A9;
+    -fx-border-radius:5px;
+}
+.BordeClaro{
+    -fx-border-color:#B1ACD1;
+    -fx-border-width:2;
+    -fx-border-radius:5px;
+}
+
+.BordeOscuro{
+    -fx-border-color: #363062;
+    -fx-border-width:2;
+    -fx-border-radius:5px;
+}
+
+.Inicio{
+    -fx-background-color: #AF9DCA;
+}
